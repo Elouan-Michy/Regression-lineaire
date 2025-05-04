@@ -150,5 +150,3 @@ with col22:
         st.write("Tu as sélectionné :", personne)
     else:
         st.info("Aucune ligne sélectionnée.")
-
-
